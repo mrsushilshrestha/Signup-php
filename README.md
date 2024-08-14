@@ -34,3 +34,9 @@ This project is a simple web-based signup form created using HTML, CSS, and PHP.
        age INT NOT NULL,
        email VARCHAR(100) NOT NULL UNIQUE
    );
+
+
+#This is FInal Outcome 
+![Screenshot 2024-08-14 180039](https://github.com/user-attachments/assets/6b623ec8-176a-4fdb-bc65-57fadfd9d4bc)
+![Screenshot 2024-08-14 180827](https://github.com/user-attachments/assets/a9159e0d-0927-4d38-bb9b-bc7e0e80a2d2)
+
